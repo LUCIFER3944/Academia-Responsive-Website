@@ -1,0 +1,54 @@
+
+.nav{
+    display: none;
+}
+.nav2{
+    position: absolute;
+    right: 0;
+}
+.none{
+    display: none;
+}
+.Leader{
+    margin-bottom: 20px;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.img2 img{
+ transform: translateY(150px);
+}
+.text{
+    width: 100%;
+    height: 800px;
+    justify-content: center;
+    align-items: center; 
+}
+.body2{
+    background-position: 90%;
+}
+.Box1{
+width: 100vw;
+}
+.img2 img {
+
+    height: 700px;
+  }
+.icon{
+ display: none !important;
+}
+.card-img-top2{
+    width: 50% !important;
+}
+.news{
+flex-direction: column;
+}
+.footer{
+    flex-direction: column;
+}
+.img4{
+    display: none;
+}
+.section{
+    margin-top: 100px;
+}
